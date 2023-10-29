@@ -1,0 +1,2 @@
+ This ”Progress” should be updated weekly to detail the tasks completed, fostering clear communication and progress tracking. Be sure to include a link to your GitHub repository
+in this section.

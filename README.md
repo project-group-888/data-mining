@@ -2,7 +2,7 @@
 **Beyond Charts: Stock Price Prediction with Combined Machine Learning Algorithms**
 
 ## Description:
-This project explores the prediction of stock prices using a combination of machine learning algorithms, including Linear Regression, Decision Tree Regression, and Random Forest Regressor. The analysis involves various financial indicators and features to enhance predictive accuracy.
+This project explores the prediction of stock prices using a combination of machine learning algorithms, such as random forest regression, decision trees, xgb and adaboost. This project combines different algorithms into a voting regression model and make predictions for future stock prices.
 
 ## Installation:
 To run this project, follow these steps:
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 
 ## Data:
-The project uses historical stock price data for Amazon (AMZN), which is contained in the `AMZN.csv` file. Please ensure this file is in your project directory before running the scripts.
+The project uses historical stock price data for the chosen stock "STOCK_NAME" variable(default is AMZN-AMAZON), which is contained in the `AMZN.csv` file. Please ensure that you have a csv file that consists historical stock data for the stock you want to work on.
 
 ## Usage:
 After installing the dependencies and ensuring the data file is in place, you can run the project using Python:
